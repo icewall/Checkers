@@ -44,8 +44,7 @@ int g_tableSimpleWeight [] =
 											 2, 2, 2, 3,
 											 3, 3, 3, 3};
 ```											 
-=======
-```											 
+
 Currently CPU uses **g_tableWeight**.
 
 #What repo contains ?
