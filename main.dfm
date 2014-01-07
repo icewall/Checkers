@@ -26,9 +26,6 @@ object Form1: TForm1
     ReadOnly = True
     ScrollBars = ssVertical
     TabOrder = 0
-    Visible = False
-    ExplicitTop = 311
-    ExplicitWidth = 421
   end
   object CheckBox1: TCheckBox
     Left = 472
